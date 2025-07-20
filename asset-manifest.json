@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/BrigitteHx/DemoDepot/static/css/main.1bd240b2.css",
-    "main.js": "/BrigitteHx/DemoDepot/static/js/main.5e87296b.js",
-    "static/media/logo.png": "/BrigitteHx/DemoDepot/static/media/logo.d3be21f17d8535f16de2.png",
-    "index.html": "/BrigitteHx/DemoDepot/index.html",
-    "main.1bd240b2.css.map": "/BrigitteHx/DemoDepot/static/css/main.1bd240b2.css.map",
-    "main.5e87296b.js.map": "/BrigitteHx/DemoDepot/static/js/main.5e87296b.js.map"
+    "main.css": "/DemoDepot/static/css/main.1bd240b2.css",
+    "main.js": "/DemoDepot/static/js/main.523f35bf.js",
+    "static/media/logo.png": "/DemoDepot/static/media/logo.d3be21f17d8535f16de2.png",
+    "index.html": "/DemoDepot/index.html",
+    "main.1bd240b2.css.map": "/DemoDepot/static/css/main.1bd240b2.css.map",
+    "main.523f35bf.js.map": "/DemoDepot/static/js/main.523f35bf.js.map"
   },
   "entrypoints": [
     "static/css/main.1bd240b2.css",
-    "static/js/main.5e87296b.js"
+    "static/js/main.523f35bf.js"
   ]
 }
